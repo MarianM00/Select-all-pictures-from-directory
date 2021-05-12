@@ -1,0 +1,10 @@
+C:\Users\Marian\Desktop\aplicatie c# form\Poza\Poza\bin\Debug\Poza.exe.config
+C:\Users\Marian\Desktop\aplicatie c# form\Poza\Poza\bin\Debug\Poza.exe
+C:\Users\Marian\Desktop\aplicatie c# form\Poza\Poza\bin\Debug\Poza.pdb
+C:\Users\Marian\Desktop\aplicatie c# form\Poza\Poza\obj\Debug\Poza.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\aplicatie c# form\Poza\Poza\obj\Debug\Poza.Form1.resources
+C:\Users\Marian\Desktop\aplicatie c# form\Poza\Poza\obj\Debug\Poza.Properties.Resources.resources
+C:\Users\Marian\Desktop\aplicatie c# form\Poza\Poza\obj\Debug\Poza.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\aplicatie c# form\Poza\Poza\obj\Debug\Poza.csproj.CoreCompileInputs.cache
+C:\Users\Marian\Desktop\aplicatie c# form\Poza\Poza\obj\Debug\Poza.exe
+C:\Users\Marian\Desktop\aplicatie c# form\Poza\Poza\obj\Debug\Poza.pdb
